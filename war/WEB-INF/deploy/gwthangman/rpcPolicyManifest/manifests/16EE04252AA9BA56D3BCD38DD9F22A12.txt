@@ -1,0 +1,2 @@
+serviceClass: com.iconnex.gwthangman.client.GreetingService
+path: A89C42C38ECFEFB8B04623BF1C82FE5A.gwt.rpc
